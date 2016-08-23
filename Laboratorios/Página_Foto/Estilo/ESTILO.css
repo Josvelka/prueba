@@ -1,0 +1,199 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	font-family: Helvetica, Arial;
+	background: white;
+}
+nav{
+	padding: 20px;
+	text-align: center;
+}
+nav ul li{
+	text-decoration: none;
+	display: inline-block;
+	cursor: pointer;
+	margin-right: 18px;
+}
+nav a{
+	text-decoration: none;
+	color:black;
+}
+h1{
+	text-align: center;
+}
+header{
+	background:url(0.jpg);
+	width: 100%;
+	padding: 85px;
+	text-align: center;
+	font-family: Helvetica arial;
+}
+#X h1{
+	color: white;
+}
+#X p{
+	margin: 30px;
+	color: white;
+}
+#T{
+	background-color: #FD4B38;
+    font-family:  arial;
+    padding: 10px;
+    width: 15%;
+    color: white;
+    border: none;
+}
+section #im{
+	padding-left: 10px;
+	margin-left: 10px;
+	width: 445px;
+	height: 320px;
+}
+#hr{
+	margin-right: auto;
+	margin-left: auto;
+}
+#H{
+	color: white;
+	background: #FD4B38;
+	width: 150px;
+	height: 50px;
+	border:none;
+	font-size: 1em;
+	padding: 0px;
+}
+#M{
+	color: black;
+	background: white;
+	border: 1px solid;
+	border-color: #FD4B38;
+	width: 150px;
+	height: 50px;
+	padding: 0px;
+	font-size: 1em;
+	bottom: right;
+}
+#acer{
+	width: 980px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#parr{
+	width: 480px;
+    float: left;
+}
+#parrafo{
+	padding-top: 18px;
+}
+.art1{
+	width: 380px;
+	height: 133px;
+	text-align: right;
+	float: left;
+    margin-left: 20px;
+}
+.art2{
+	width: 350px;
+	height: 133px;
+	float: left;
+}
+#imgcentro{
+	padding-top: 10px;
+	padding-left: 20px;
+	height: 400px;
+	width: 510px;
+}
+.art3{
+	text-align: left;
+    width: 380px;
+	height: 133px;
+	float: right;
+	padding-top: 10px;
+	padding-left: 30px;
+	margin-right: 15px;
+}
+#caract{
+	width: 100%;
+	height: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #D7D7D1;
+}
+#gal{
+	width: 960px;
+	height: 400px;
+	margin-left: auto;
+	margin-right:auto;
+}
+.a{
+	padding-left: 130px;
+	width: 200px;
+	float: left;
+}
+.b{
+	padding-left: 100px;
+	width: 200px;
+	float: left;
+}
+.c{
+	padding-left: 100px;
+	width: 200px;
+	float: left;
+}
+.d{
+	padding-left: 100px;
+	width: 200px;
+	float: left;
+}
+.imgal{
+	width: 100%;
+	height: 400px;
+	padding-top: 10px;
+}
+#parraf{
+	max-width: 550px;
+	float: left;
+}
+#cont{
+	margin-top: 10px;
+	width: 100%;
+	height: 550px;
+	background-color:#D6D6D1;
+}
+.E1, .E2{
+	display: inline-block;
+    vertical-align: top;
+}
+.E1{
+	width: 42%;
+	padding-left: 8%;
+}
+.E2{
+	width: 40%;
+}
+input
+{
+	height: 40px;
+	width: 270px;
+}
+textarea{
+	width: 550px;
+}
+#enviar{
+	width: 550px;
+	height: 45px;
+	color: white;
+	background-color: #FD4B38;
+	border: none;
+	font-size: 20px;
+}
+footer{
+	text-align: center;
+	background: #FD4B38;
+	padding: 10px;
+	color: white;
+	height: 35px;
+}

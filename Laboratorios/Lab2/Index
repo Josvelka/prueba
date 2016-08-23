@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Movie</title>
+	<link rel="stylesheet" href="Estilo/estilos.css">	
+	<script src="js/jquery.min.js"></script>
+	<script src="js/codigo.js"></script>	
+</head>
+
+<body>
+	<nav> 
+		<ul>
+			<li><a href="#">Inicio</a></li>
+			<li><a href="#" id="Publicar"</a>Publicar</li>
+			<li><a href="#">Contacto</a></li>
+		</ul>
+	</nav>
+
+<header>
+  <hgroup>
+    <h1>Sitio de las mejores peliculas</h1>
+    <h2>Conoce lo nuevo del cine</h2>
+  </hgroup>
+</header>
+
+<main>
+<section>
+	 <article class="articulo1">
+	 <p>
+	 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem at iusto et excepturi aliquid, voluptas laborum enim id tempore odio culpa, illo maxime tempora, architecto. Odio veritatis aliquam excepturi, dolorum.
+     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed corporis hic esse expedita pariatur, distinctio ab blanditiis, ipsam obcaecati, facere consequatur tenetur magnam nostrum fugit perspiciatis, animi omnis aliquid veniam.
+	 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut velit hic repellat voluptatibus, libero eaque tenetur rem soluta vero adipisci tempora delectus alias sed deleniti reiciendis dolorum, officia cum facilis.</article>
+
+	 <article class="articulo2">
+	 	<figure>
+	 	<img src="IMG/img.jpg">
+	 	<figcaption>
+	 	<h2>Titulo de la movie</h2>
+	 	    <ul>
+	 		    <li><strong>Nombre de la pelicula:</strong>Descripcion</li>
+	 		    <li><strong>Director:</strong>Descripcion</li>
+	 		    <li><strong>Resumen:</strong>Descripcion</li>
+	 	    </ul>	
+	 	</figcaption>
+	 	</figure>
+	 </article>
+	 
+	 <article class="formulario">
+	 	<h3>Publicar pelicula</h3>
+	 	<hr>
+	 	<form>
+	 		<legend>Titulo de pelicula:</legend><br>
+	 		<input type="text" name="" id="" placeholder"Escriba el nombre de la movie">
+	 		<legend>Director de la pelicula</legend><br>
+	 		<input type="text" name="" id="" placeholder"Escriba el nombre de la movie">
+	 		<legend>Resumen</legend><br>
+	 		<textarea name="" id="" cols="30" rows="10"></textarea>
+	 		<legend>Portada:</legend><br>
+	 		<input type="file" name="" id=""><br>
+	 		
+	 		<button>Enviar</button>
+
+	 	</form>
+	 </article>
+</section>
+</main>
+<footer>
+	<h3>&copy; Josvelka Mendoza,2016</h3>
+</footer>
+</body>
+</html>
